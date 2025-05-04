@@ -10,9 +10,9 @@ I'm a passionate full-stack developer specializing in React, Node.js, Nextjs, SQ
 - **DevOps**: Docker, GitHub Actions, CI/CD
 
 ### 📬 Connect with me:
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/gauravnardia/))
+- [LinkedIn](https://www.linkedin.com/in/gauravnardia/)
 - [Twitter](https://x.com/gaurav_nardia)
-- [Personal Website]([your-website-url](https://gauravnardia.com/))
+- [Personal Website](https://gauravnardia.com/)
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravNardia&show_icons=true&count_private=true&hide=prs&hide_title=true)
