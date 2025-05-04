@@ -13,6 +13,4 @@ I'm a passionate full-stack developer specializing in React, Node.js, Nextjs, SQ
 - [LinkedIn](https://www.linkedin.com/in/gauravnardia/)
 - [Twitter](https://x.com/gaurav_nardia)
 - [Personal Website](https://gauravnardia.com/)
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravNardia&show_icons=true&count_private=true&hide=prs&hide_title=true)
+- [Blogs](https://blog.gauravnardia.com/)
