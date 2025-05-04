@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Gaurav Nardia! 👋
 
-<!--
-**GauravNardia/GauravNardia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I'm a passionate full-stack developer specializing in React, Node.js, Nextjs, SQL, NoSQL, System Design and building scalable web applications. I love to learn and explore new technologies, and I'm always looking for opportunities to contribute to open-source projects.
 
-Here are some ideas to get you started:
+### 🚀 Technologies & Tools
+- **Languages**: JavaScript, TypeScript, Python
+- **Frontend**: React, Next.js, Tailwind CSS
+- **Backend**: Node.js, Express, MongoDB, Postgres
+- **DevOps**: Docker, GitHub Actions, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect with me:
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/gauravnardia/))
+- [Twitter](https://x.com/gaurav_nardia)
+- [Personal Website]([your-website-url](https://gauravnardia.com/))
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravNardia&show_icons=true&count_private=true&hide=prs&hide_title=true)
