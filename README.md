@@ -45,5 +45,5 @@ Git, GitHub, Docker, Postman, Aws
 
 ---
 
-> “Keep it simple. Make it useful. Build it better.”
+> “Just an ordinary person trying to be useful for humanity.”
 
