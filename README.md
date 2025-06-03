@@ -1,49 +1,49 @@
 # Gaurav Nardia
 
-### Full-Stack Developer | Building with React, Node.js, and Next.js
+### Full-Stack Developer | React, Node.js & Next.js Enthusiast
 
-Hi, I’m Gaurav — a passionate developer focused on creating clean, scalable, and user-friendly web apps. I love solving real-world problems with modern tech.
+Hey, I’m Gaurav — a developer who genuinely enjoys building things on the web. I care about writing clean code, solving real problems, and creating apps that people actually enjoy using. From front-end interfaces to backend systems, I love being involved in every part of the build.
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages:**  
-JavaScript, TypeScript, Python, Rust
+**Languages**  
+JavaScript · TypeScript · Python · Rust (exploring)
 
-**Frontend:**  
-React, Next.js, Tailwind CSS
+**Frontend**  
+React · Next.js · Tailwind CSS
 
-**Backend:**  
-Node.js, Express, MongoDB
+**Backend**  
+Node.js · Express · MongoDB
 
-**Other Tools:**  
-Git, GitHub, Docker, Postman, Aws
+**Tools I Use Often**  
+Git · GitHub · Docker · Postman · AWS
 
 ---
 
-## 📫 Connect with Me
+## 📬 Find Me Online
+
 - [LinkedIn](https://www.linkedin.com/in/gauravnardia/)
-- [Twitter](https://x.com/gaurav_nardia)
-- [Personal Website](https://gauravnardia.com/)
-- [Blogs](https://blog.gauravnardia.com/)
-
-
-## 📌 Projects
-
-- **[medipulsex.com](https://medipulsex.com/)** – Doctor-patient platform for instant appointments.  
-- **[Builder](https://builder-flax-six.vercel.app/)** – An AI-powered web app builder
-- **[Talkr](https://talkrai.gauravnardia.com/)** – AI powered Language teacher who teaches any language on earth directly from native language(in progress)
-- **[Chess Game](https://chess-1-2nut.onrender.com/)** - A Full Stack Chess Game.
+- [Twitter (X)](https://x.com/gaurav_nardia)
+- [Portfolio](https://gauravnardia.com/)
+- [Blog](https://blog.gauravnardia.com/)
 
 ---
 
-## 💡 Currently Learning
+## 🛠️ A Few Projects I'm Proud Of
 
-- System Design For Scalable apps & Better At It.
+- **[MediPulsex](https://medipulsex.com/)** – A platform that helps patients instantly connect with doctors.  
+- **[Builder](https://builder-flax-six.vercel.app/)** – AI-powered tool that helps users create web apps with ease.  
+- **[Talkr](https://talkrai.gauravnardia.com/)** – An AI-based language tutor that adapts to your native language *(in progress)*.  
+- **[Chess Game](https://chess-1-2nut.onrender.com/)** – A full-stack chess game built for fun and learning.
 
+---
+
+## 📚 Currently Exploring
+
+- System Design – trying to get better at building things that scale well.
 
 ---
 
 > “Just an ordinary person trying to be useful for humanity.”
-
