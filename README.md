@@ -56,6 +56,16 @@ From building sleek interfaces to designing resilient APIs, I love the entire pr
 
 ---
 
+## 🌍 Currently Contributing To Open Source
+
+I'm actively contributing to open source projects that align with my values: clean code, performance, and developer experience.
+
+### 🛠️ Ongoing Contributions
+
+- 🧱 [**Nimbus**](https://www.nimbus.storage) – Enhancing logic, Architecture, Backend , Full Stack.
+
+---
+
 ## 🛠️ Featured Projects
 
 | 🚀 Project | 🌟 Description |
