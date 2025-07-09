@@ -72,6 +72,7 @@ I'm actively contributing to open source projects that align with my values: cle
 |-----------|----------------|
 | [**TryBit**](https://trybit.gauravnardia.com) | Real-Time devs competition app where dev solve challenges and get $$$ |
 | [**MediPulsex**](https://medipulsex.com) | Doctor-patient platform for instant medical appointments |
+| [**HTTP Protocol**](https://github.com/GauravNardia/tcp-protocol) | Http protocol from scratch |
 | [**Builder**](https://builder-flax-six.vercel.app) | AI-powered tool to spin up web apps in seconds |
 | [**Chess Game**](https://chess-1-2nut.onrender.com) | A full-stack chess game with real-time multiplayer logic |
 
