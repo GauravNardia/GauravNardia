@@ -62,7 +62,7 @@ I'm actively contributing to open source projects that align with my values: cle
 
 ### 🛠️ Ongoing Contributions
 
-- 🧱 [**Nimbus**](https://www.nimbus.storage) – Enhancing logic, Architecture, Backend , Full Stack.
+- 🧱 [**Nimbus**](https://nimbus.storage) – Enhancing logic, Architecture, Backend , Full Stack.
 
 ---
 
