@@ -23,7 +23,7 @@ Hey! I'm Gaurav — a passionate developer who enjoys solving meaningful problem
 From building sleek interfaces to designing resilient APIs, I love the entire process of turning ideas into impactful digital products.
 
 🧠 Focused on: **Performance**, **Clean Code**, and **Scalability**  
-🌱 Currently exploring: **System Design** & **Rust**  
+🌱 Currently exploring: **System Design**  
 🤝 Open to exciting collaborations!
 
 > *"Just an ordinary person trying to be useful for humanity."*
