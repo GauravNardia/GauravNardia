@@ -81,7 +81,6 @@ I'm actively contributing to open source projects that align with my values: cle
 ## 📚 Currently Learning
 
 - 📘 System Design: building apps that scale well under pressure  
-- 🦀 Rust: just because I love performance and control
 
 ---
 
